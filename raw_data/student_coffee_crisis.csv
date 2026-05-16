@@ -1,0 +1,61 @@
+incident_id,employee,coffee_type,cups_consumed,productivity_score,mood,funny_excuse,meeting_attended,lines_of_code_written,bugs_created,timestamp
+1,Nour,Cappuccino,6,93.36,Mentally Compiling,Git blamed me,True,2199,6,2026-05-01T10:00:00
+2,Rafeef,Espresso,6,61.01,Running on Vibes,VS Code crashed emotionally,True,357,27,2026-05-01T12:00:00
+3,Hala,Latte,7,71.49,Sleepy,Thought the assignment was optional,False,247,36,2026-05-01T14:00:00
+4,Osama,Triple Shot Chaos,2,62.11,Mentally Compiling,Thought the assignment was optional,True,2368,37,2026-05-01T16:00:00
+5,Fatoom,Latte,7,59.17,Sleepy,Thought the assignment was optional,True,1191,26,2026-05-01T18:00:00
+6,Alaa,Espresso,3,59.03,Running on Vibes,The bug was a feature,True,427,37,2026-05-01T20:00:00
+7,Mohammed,Espresso,4,61.99,Running on Vibes,My code worked yesterday,True,2316,3,2026-05-01T22:00:00
+8,Sali,Triple Shot Chaos,4,35.68,Running on Vibes,Coffee machine exploded,False,1912,37,2026-05-02T00:00:00
+9,Mohammed,Cold Brew,8,89.26,Debugging,Accidentally trained the toaster instead of the model,True,1004,5,2026-05-02T02:00:00
+10,Yasmeen,Cappuccino,5,74.01,Existential,My code worked yesterday,False,1184,38,2026-05-02T04:00:00
+11,Yazid,Mystery Coffee,2,46.62,Hyper,VS Code crashed emotionally,False,627,31,2026-05-02T06:00:00
+12,Fatoom,Triple Shot Chaos,7,68.43,Sleepy,Accidentally trained the toaster instead of the model,False,1398,44,2026-05-02T08:00:00
+13,Mariam,Cappuccino,6,75.58,Running on Vibes,Accidentally trained the toaster instead of the model,False,286,5,2026-05-02T10:00:00
+14,Sali,Triple Shot Chaos,5,61.08,Mentally Compiling,Git blamed me,True,1273,41,2026-05-02T12:00:00
+15,Amal,Triple Shot Chaos,8,70.36,Hyper,My code worked yesterday,False,97,29,2026-05-02T14:00:00
+16,Dina,Mystery Coffee,6,46.2,Sleepy,Coffee machine exploded,True,898,18,2026-05-02T16:00:00
+17,Osama,Cappuccino,3,67.32,Hyper,Accidentally trained the toaster instead of the model,False,335,10,2026-05-02T18:00:00
+18,Anas,Mystery Coffee,8,75.86,Existential,VS Code crashed emotionally,False,2258,17,2026-05-02T20:00:00
+19,Mohammed,Triple Shot Chaos,7,75.12,Hyper,VS Code crashed emotionally,True,344,11,2026-05-02T22:00:00
+20,Osama,Triple Shot Chaos,3,36.1,Debugging,Git blamed me,False,2418,11,2026-05-03T00:00:00
+21,Amal,Espresso,5,89.76,Debugging,Coffee machine exploded,False,2324,20,2026-05-03T02:00:00
+22,Yasmeen,Mystery Coffee,3,61.32,Mentally Compiling,My code worked yesterday,True,1875,43,2026-05-03T04:00:00
+23,Anas,Cappuccino,9,71.19,Hyper,Coffee machine exploded,True,1977,40,2026-05-03T06:00:00
+24,Fatoom,Latte,7,100.0,Sleepy,VS Code crashed emotionally,False,669,7,2026-05-03T08:00:00
+25,Mariam,Espresso,6,67.32,Sleepy,Git blamed me,True,2202,6,2026-05-03T10:00:00
+26,Mariam,Espresso,6,46.24,Sleepy,Accidentally trained the toaster instead of the model,True,1546,9,2026-05-03T12:00:00
+27,Mohammed,Mystery Coffee,5,58.92,Existential,Coffee machine exploded,True,477,31,2026-05-03T14:00:00
+28,Sali,Cappuccino,8,39.68,Existential,Git blamed me,True,423,47,2026-05-03T16:00:00
+29,Zaki,Cappuccino,6,83.74,Mentally Compiling,VS Code crashed emotionally,True,845,33,2026-05-03T18:00:00
+30,Nour,Triple Shot Chaos,6,61.75,Running on Vibes,Git blamed me,False,377,44,2026-05-03T20:00:00
+31,Yasmeen,Cold Brew,5,53.86,Debugging,The bug was a feature,True,2186,34,2026-05-03T22:00:00
+32,Raed,Triple Shot Chaos,9,93.09,Debugging,Thought the assignment was optional,True,985,25,2026-05-04T00:00:00
+33,Rana,Mystery Coffee,4,37.23,Hyper,The bug was a feature,True,119,17,2026-05-04T02:00:00
+34,Zaki,Latte,8,82.03,Mentally Compiling,Thought the assignment was optional,False,1836,46,2026-05-04T04:00:00
+35,Mohammed,Espresso,6,37.03,Debugging,Git blamed me,True,1930,12,2026-05-04T06:00:00
+36,Rana,Cappuccino,6,58.07,Running on Vibes,Thought the assignment was optional,True,1968,41,2026-05-04T08:00:00
+37,Dana,Espresso,6,49.94,Mentally Compiling,Git blamed me,False,821,30,2026-05-04T10:00:00
+38,Fady,Triple Shot Chaos,3,80.93,Existential,Git blamed me,False,1902,25,2026-05-04T12:00:00
+39,Dina,Latte,2,82.49,Debugging,Git blamed me,True,2424,29,2026-05-04T14:00:00
+40,Mariam,Mystery Coffee,3,54.06,Hyper,My code worked yesterday,False,643,35,2026-05-04T16:00:00
+41,Nour,Espresso,9,89.61,Sleepy,Accidentally trained the toaster instead of the model,True,2161,47,2026-05-04T18:00:00
+42,Fady,Latte,3,56.3,Debugging,Git blamed me,False,876,18,2026-05-04T20:00:00
+43,Osama,Mystery Coffee,9,85.52,Existential,The bug was a feature,False,541,3,2026-05-04T22:00:00
+44,Rawan,Triple Shot Chaos,6,56.71,Running on Vibes,Accidentally trained the toaster instead of the model,False,2059,8,2026-05-05T00:00:00
+45,Nour,Mystery Coffee,9,51.37,Running on Vibes,Git blamed me,False,755,38,2026-05-05T02:00:00
+46,Nour,Latte,1,25.95,Debugging,Coffee machine exploded,True,2284,3,2026-05-05T04:00:00
+47,Yasmeen,Mystery Coffee,6,73.75,Running on Vibes,Coffee machine exploded,True,2299,3,2026-05-05T06:00:00
+48,Rana,Cold Brew,4,95.71,Sleepy,Accidentally trained the toaster instead of the model,True,2084,28,2026-05-05T08:00:00
+49,Ahmed,Espresso,9,81.04,Hyper,The bug was a feature,True,1140,28,2026-05-05T10:00:00
+50,Alaa,Cappuccino,9,69.13,Running on Vibes,VS Code crashed emotionally,False,2296,12,2026-05-05T12:00:00
+51,Nour,Cappuccino,8,100.0,Sleepy,Coffee machine exploded,False,1299,4,2026-05-05T14:00:00
+52,Fady,Espresso,4,65.56,Debugging,My code worked yesterday,False,506,9,2026-05-05T16:00:00
+53,Nour,Cold Brew,6,69.52,Debugging,Coffee machine exploded,True,390,25,2026-05-05T18:00:00
+54,Dina,Triple Shot Chaos,8,77.79,Debugging,VS Code crashed emotionally,False,2116,25,2026-05-05T20:00:00
+55,Fady,Latte,6,66.01,Existential,The bug was a feature,True,1503,1,2026-05-05T22:00:00
+56,Alaa,Cappuccino,6,63.36,Hyper,My code worked yesterday,True,1579,21,2026-05-06T00:00:00
+57,Mariam,Cold Brew,9,55.48,Running on Vibes,Git blamed me,True,941,6,2026-05-06T02:00:00
+58,Zaki,Cold Brew,2,63.52,Sleepy,Accidentally trained the toaster instead of the model,True,1112,8,2026-05-06T04:00:00
+59,Zaki,Cappuccino,7,69.58,Debugging,Thought the assignment was optional,False,1344,5,2026-05-06T06:00:00
+60,Fatoom,Triple Shot Chaos,5,82.9,Debugging,Coffee machine exploded,True,1106,1,2026-05-06T08:00:00
