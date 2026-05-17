@@ -1,5 +1,8 @@
+# %%
 import pandas as pd
 import json
+
+# %%
 #==============================================================
 # read csv file
 
